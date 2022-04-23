@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "video-game-data-scratch": {
+      "hosting": {
+        "ng-video-game-db": [
+          "video-game-data-scratch"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "video-game-data-scratch"
+  }
+}
